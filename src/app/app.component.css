@@ -1,0 +1,10 @@
+.navbar
+{
+    background-color:hotpink;
+
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color:rosybrown;
+    font-size: 25px;
+}
